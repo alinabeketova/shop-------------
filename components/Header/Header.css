@@ -1,0 +1,12 @@
+.header-conteiner {
+    display: flex;
+    height: 50px;
+    padding: var(--spacing-small);
+    background-color: var( --color-medium);
+} 
+.header-couter {
+    margin-left: auto;
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+}
